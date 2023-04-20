@@ -40,7 +40,7 @@ UPSTREAM_REPO = getenv(
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 
-GIT_TOKEN = getenv("GIT_TOKEN","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")
+GIT_TOKEN = getenv("GIT_TOKEN","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")
 
 SUPPORT_CHANNEL = getenv(
     "SUPPORT_CHANNEL", "https://t.me/Life_Codes")
