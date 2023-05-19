@@ -1,5 +1,5 @@
 AUTOCHAT_COMMAND : ["autochat","addchat"]
-AUTOUSER_COMMAND : ["autouser"]
+AUTOUSER_COMMAND : ["autouser","adduser"]
 PING_COMMAND : ["ping", "alive"]
 START_COMMAND : ["start", "mstart"]
 HELP_COMMAND : ["help"]
