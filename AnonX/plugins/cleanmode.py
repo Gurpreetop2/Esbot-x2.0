@@ -1,4 +1,5 @@
 import asyncio
+import random
 from datetime import datetime, timedelta
 
 from pyrogram import filters
@@ -55,7 +56,7 @@ async def clean_mode(client, update, users, chats):
     }
     clean[chat_id].append(put)
     await set_queries(1)
-
+a=random.randint(1, 20)
 
 @app.on_message(filters.command(BROADCAST_COMMAND) & filters.user(OWNER_ID))
 @language
@@ -85,8 +86,8 @@ async def braodcast_message(client, message, _):
 
     # Bot broadcast inside chats
     if "-nobot" not in message.text:
-        sent = 0+7000
-        pin = 0+6998
+        sent = 0+5000
+        pin = 0+4940+int(a)
         chats = []
         schats = await get_served_chats()
         for chat in schats:
