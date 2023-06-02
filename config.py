@@ -43,9 +43,9 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN","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")
 
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/Life_Codes")
+    "SUPPORT_CHANNEL", "https://t.me/Eliza_Update")
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/Life_Codes")
+    "SUPPORT_GROUP", "https://t.me/Eliza_Update")
 
 SUPPORT_HEHE = SUPPORT_GROUP.split("me/")[1]
 
@@ -123,62 +123,62 @@ START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/3de256b3a02c4fc
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://telegra.ph/file/3f5cabcc8540e7b8063c0.jpg",
+    "https://graph.org/file/8ea0124294914361fc1b0.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
     "PLAYLIST_IMG_URL",
-    "https://telegra.ph/file/48cfa304d4843f821c78c.jpg",
+    "https://graph.org/file/c0de1d06e91d7aa304794.jpg",
 )
 
 GLOBAL_IMG_URL = getenv(
     "GLOBAL_IMG_URL",
-    "https://telegra.ph/file/8da1f7657b940d287cfa4.jpg",
+    "https://graph.org/file/1a7c8c709af1b1917a540.jpg",
 )
 
 STATS_IMG_URL = getenv(
     "STATS_IMG_URL",
-    "https://telegra.ph/file/8da1f7657b940d287cfa4.jpg",
+    "https://graph.org/file/1a7c8c709af1b1917a540.jpg",
 )
 
 TELEGRAM_AUDIO_URL = getenv(
     "TELEGRAM_AUDIO_URL",
-    "https://telegra.ph/file/39da31f547e203d3d308a.jpg",
+    "https://graph.org/file/c0de1d06e91d7aa304794.jpg",
 )
 
 TELEGRAM_VIDEO_URL = getenv(
     "TELEGRAM_VIDEO_URL",
-    "https://telegra.ph/file/80e82790f09cc37e4f430.jpg",
+    "https://graph.org/file/c0de1d06e91d7aa304794.jpg",
 )
 
 STREAM_IMG_URL = getenv(
     "STREAM_IMG_URL",
-    "https://telegra.ph/file/554a170f32fba20eabb0d.jpg",
+    "https://graph.org/file/c0de1d06e91d7aa304794.jpg",
 )
 
 SOUNCLOUD_IMG_URL = getenv(
     "SOUNCLOUD_IMG_URL",
-    "https://telegra.ph/file/554a170f32fba20eabb0d.jpg",
+    "https://graph.org/file/c0de1d06e91d7aa304794.jpg",
 )
 
 YOUTUBE_IMG_URL = getenv(
     "YOUTUBE_IMG_URL",
-    "https://telegra.ph/file/9245a2cafa4322655e1cc.jpg",
+    "https://graph.org/file/c0de1d06e91d7aa304794.jpg",
 )
 
 SPOTIFY_ARTIST_IMG_URL = getenv(
     "SPOTIFY_ARTIST_IMG_URL",
-    "https://telegra.ph/file/33bd87e3430d7df6b2de3.jpg",
+    "https://graph.org/file/c0de1d06e91d7aa304794.jpg",
 )
 
 SPOTIFY_ALBUM_IMG_URL = getenv(
     "SPOTIFY_ALBUM_IMG_URL",
-    "https://telegra.ph/file/33bd87e3430d7df6b2de3.jpg",
+    "https://graph.org/file/c0de1d06e91d7aa304794.jpg",
 )
 
 SPOTIFY_PLAYLIST_IMG_URL = getenv(
     "SPOTIFY_PLAYLIST_IMG_URL",
-    "https://telegra.ph/file/33bd87e3430d7df6b2de3.jpg",
+    "https://graph.org/file/c0de1d06e91d7aa304794.jpg",
 )
 
 
